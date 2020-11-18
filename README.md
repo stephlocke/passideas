@@ -1,5 +1,6 @@
 # PASS Ideas
 Suggest, upvote, and see feedback on ideas for PASS
+
 This is intended to provide a place that you can see past ideas, contribute new ones, and see feedback that has been provided from the BoD or HQ. Once a week we'll send a digest of the newest ideas on and then add feedback when we receive it.
 
 > [Ask PASS](https://www.pass.org/Governance/Board-of-Directors)
