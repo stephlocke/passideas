@@ -8,7 +8,7 @@ This is intended to provide a place that you can see past ideas, contribute new 
 > Want to know more about PASS? Would you like to share your ideas, comments or feedback?
 > We want to hear from you! You can contact us directly or email the Director in charge of the PASS Portfolio relating to your question. We'll get back to you within 7 days.
 
-**Go to [Issues](issues) to see ideas, react with a 👍 to upvote answers, and see the feedback from PASS BoD**
+**Go to [Issues](https://github.com/stephlocke/passideas/issues) to see ideas, react with a 👍 to upvote answers, and see the feedback from PASS BoD**
 
 
 
